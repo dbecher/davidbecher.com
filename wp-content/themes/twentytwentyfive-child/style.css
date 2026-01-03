@@ -1,0 +1,137 @@
+/*
+Theme Name:   DavidBecher.com
+Theme URI:    http://davidbecher.com
+Description:  Twenty Twenty Five Child Theme
+Author:       David Becher
+Author URI:   http: //davidbecher.com
+Template:     twentytwentyfive
+Version:      1.0.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain:  twentytwentyfivechild
+*/
+
+/**
+ * @license
+ * MyFonts Webfont Build ID 3867246, 2020-12-16T11:57:38-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ * 
+ * © 2023 MyFonts Inc. */

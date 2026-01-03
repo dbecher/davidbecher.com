@@ -1,0 +1,269 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 2,
+  "settings": {
+    "typography": {
+      "fontFamilies": [
+        {
+          "name": "Expressway",
+          "slug": "expressway",
+          "fontFamily": "'Expressway', sans-serif",
+          "fontFace": [
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "200",
+              "fontStyle": "normal",
+              "fontStretch": "normal",
+              "src": [
+                "file:./assets/fonts/ExpresswayExtraLight.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "200",
+              "fontStyle": "italic",
+              "fontStretch": "normal",
+              "src": [
+                "file:./assets/fonts/ExpresswayExtraLightItalic.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "300",
+              "fontStyle": "normal",
+              "fontStretch": "normal",
+              "src": [
+                "file:./assets/fonts/ExpresswayLight.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "300",
+              "fontStyle": "italic",
+              "fontStretch": "normal",
+              "src": [
+                "file:./assets/fonts/ExpresswayLightItalic.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "350",
+              "fontStyle": "normal",
+              "fontStretch": "normal",
+              "src": [
+                "file:./assets/fonts/ExpresswayBook.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "350",
+              "fontStyle": "italic",
+              "fontStretch": "normal",
+              "src": [
+                "file:./assets/fonts/ExpresswayBookItalic.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "400",
+              "fontStyle": "normal",
+              "fontStretch": "normal",
+              "src": [
+                "file:./assets/fonts/ExpresswayRegular.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "400",
+              "fontStyle": "italic",
+              "fontStretch": "normal",
+              "src": [
+                "file:./assets/fonts/ExpresswayItalic.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "600",
+              "fontStyle": "normal",
+              "fontStretch": "normal",
+              "src": [
+                "file:./assets/fonts/ExpresswaySemiBold.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "600",
+              "fontStyle": "italic",
+              "fontStretch": "normal",
+              "src": [
+                "file:./assets/fonts/ExpresswaySemiBoldItalic.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "700",
+              "fontStyle": "normal",
+              "fontStretch": "normal",
+              "src": [
+                "file:./assets/fonts/ExpresswayBold.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "700",
+              "fontStyle": "italic",
+              "fontStretch": "normal",
+              "src": [
+                "file:./assets/fonts/ExpresswayBoldItalic.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "800",
+              "fontStyle": "normal",
+              "fontStretch": "normal",
+              "src": [
+                "file:./assets/fonts/ExpresswayExtraBold.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "800",
+              "fontStyle": "italic",
+              "fontStretch": "normal",
+              "src": [
+                "file:./assets/fonts/ExpresswayExtraBoldItalic.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "200",
+              "fontStyle": "normal",
+              "fontStretch": "condensed",
+              "src": [
+                "file:./assets/fonts/ExpresswayCondensedExtraLight.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "200",
+              "fontStyle": "italic",
+              "fontStretch": "condensed",
+              "src": [
+                "file:./assets/fonts/ExpresswayCondensedExtraLightItalic.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "300",
+              "fontStyle": "normal",
+              "fontStretch": "condensed",
+              "src": [
+                "file:./assets/fonts/ExpresswayCondensedLight.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "300",
+              "fontStyle": "italic",
+              "fontStretch": "condensed",
+              "src": [
+                "file:./assets/fonts/ExpresswayCondensedLightItalic.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "350",
+              "fontStyle": "normal",
+              "fontStretch": "condensed",
+              "src": [
+                "file:./assets/fonts/ExpresswayCondensedBook.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "350",
+              "fontStyle": "italic",
+              "fontStretch": "condensed",
+              "src": [
+                "file:./assets/fonts/ExpresswayCondensedBookItalic.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "400",
+              "fontStyle": "normal",
+              "fontStretch": "condensed",
+              "src": [
+                "file:./assets/fonts/ExpresswayCondensedRegular.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "400",
+              "fontStyle": "italic",
+              "fontStretch": "condensed",
+              "src": [
+                "file:./assets/fonts/ExpresswayCondensedItalic.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "600",
+              "fontStyle": "normal",
+              "fontStretch": "condensed",
+              "src": [
+                "file:./assets/fonts/ExpresswayCondensedSemiBold.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "600",
+              "fontStyle": "italic",
+              "fontStretch": "condensed",
+              "src": [
+                "file:./assets/fonts/ExpresswayCondensedSemiBoldItalic.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "700",
+              "fontStyle": "normal",
+              "fontStretch": "condensed",
+              "src": [
+                "file:./assets/fonts/ExpresswayCondensedBold.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "700",
+              "fontStyle": "italic",
+              "fontStretch": "condensed",
+              "src": [
+                "file:./assets/fonts/ExpresswayCondensedBoldItalic.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "800",
+              "fontStyle": "normal",
+              "fontStretch": "condensed",
+              "src": [
+                "file:./assets/fonts/ExpresswayCondensedExtraBold.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Expressway",
+              "fontWeight": "800",
+              "fontStyle": "italic",
+              "fontStretch": "condensed",
+              "src": [
+                "file:./assets/fonts/ExpresswayCondensedExtraBoldItalic.woff2"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

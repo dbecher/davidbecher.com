@@ -21,6 +21,8 @@ function photoset_register_photo_post_type() {
             'edit_item'     => 'Edit Photo Set',
             'view_item'     => 'View Photo Set',
             'all_items'     => 'All Photo Sets',
+            'search_items'  => 'Search Photo Sets',
+            'not_found'     => 'No Photo Sets found',
         ),
         'public' => true,
         'has_archive' => true,
@@ -31,4 +33,10 @@ function photoset_register_photo_post_type() {
     register_post_type( 'photoset', $args );
 }
 
-add_action( 'init', 'photoset_register_photo_post_type' );
+// Modify Query Loop block queries to include photosets when the block has the specific class
+add_filter('query_loop_block_query_vars', 'add_photoset_to_query_loop');
+function add_photoset_to_query_loop($query, $block = null) {
+    // Check if the block has the 'query-loop-with-photosets' class
+    $query['post_type'] = ['posts', 'photoset'];
+    return $query;
+}

@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not these files...
+!wp-content/plugins/photoset
+!wp-content/themes/twentytwentyfive-child
+!.github/copilot-instructions.md
+!.gitignore
+!README.md

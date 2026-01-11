@@ -2,8 +2,8 @@
 *
 
 # But not these files...
-!wp-content/plugins/photoset
-!wp-content/themes/twentytwentyfive-child
+!wp-content/plugins/photoset/
+!wp-content/themes/davidbechercom/
 !.github/copilot-instructions.md
 !.gitignore
 !README.md

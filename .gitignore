@@ -1,9 +1,20 @@
 # Ignore everything
-*
+/wp-admin/
+/wp-includes/
+/wp-*.php
+/xmlrpc.php
+/readme.html
+/license.txt
+/index.php
+/wp-content/*
+!/wp-content/plugins/
+!/wp-content/themes/
+/wp-content/plugins/*
+/wp-content/themes/*
 
 # But not these files...
-!wp-content/plugins/photoset/
-!wp-content/themes/davidbechercom/
+!/wp-content/plugins/photoset/
+!/wp-content/themes/davidbechercom/
 !.github/copilot-instructions.md
 !.gitignore
 !README.md

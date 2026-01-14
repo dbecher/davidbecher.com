@@ -36,9 +36,9 @@ function photoset_register_photo_post_type() {
 add_action( 'init', 'photoset_register_photo_post_type' );
 
 // Modify Query Loop block queries to include photosets when the block has the specific class
-add_filter('query_loop_block_query_vars', 'add_photoset_to_query_loop');
-function add_photoset_to_query_loop($query, $block = null) {
-    // Check if the block has the 'query-loop-with-photosets' class
-    $query['post_type'] = ['posts', 'photoset'];
-    return $query;
-}
+// add_filter('query_loop_block_query_vars', 'add_photoset_to_query_loop');
+// function add_photoset_to_query_loop($query, $block = null) {
+//     // Check if the block has the 'query-loop-with-photosets' class
+//     $query['post_type'] = ['posts', 'photoset'];
+//     return $query;
+// }
